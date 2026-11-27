@@ -47,7 +47,7 @@
 
 ## 📄 My Resume
 
-📌 [View My CV](./Apshara.pdf)
+📌 [View My CV](./Resume.pdf)
 
 ## 🤝 Connect With Me
 
